@@ -1,0 +1,146 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+	list-style: none;
+	outline: none;
+	resize: none;
+	background-color: transparent;
+	text-decoration: inherit;
+	color: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	font-style: inherit;
+	font-weight: inherit;
+}
+
+body {
+	font: normal normal 16px/1 Microsoft YaHei, Heiti SC, tahoma, arial, Hiragino Sans GB, \\5B8B\4F53, sans-serif;
+	text-decoration: none;
+}
+
+img {
+	vertical-align: middle;
+}
+
+button {
+	cursor: pointer;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	clear: both;
+	display: block;
+	content: ".";
+	height: 0;
+}
+
+.clearfix {
+	*zoom: 1;
+}
+
+.clear,
+.clr {
+	display: block;
+	clear: both;
+	height: 0;
+	line-height: 0;
+	font-size: 0;
+}
+
+.none {
+	display: none;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.icon-back:before,
+.icon-cart:before,
+.icon-category:before,
+.icon-close:before,
+.icon-comments:before,
+.icon-cry:before,
+.icon-delete:before,
+.icon-edit:before,
+.icon-email:before,
+.icon-favorite:before,
+.icon-form:before,
+.icon-help:before,
+.icon-information:before,
+.icon-less:before,
+.icon-moreunfold:before,
+.icon-more:before,
+.icon-pic:before,
+.icon-refresh:before,
+.icon-search:before,
+.icon-selected:before,
+.icon-set:before,
+.icon-smile:before,
+.icon-success:before,
+.icon-warning:before,
+.icon-wrong:before,
+.icon-account:before,
+.icon-add:before,
+.icon-clock:before,
+.icon-remind:before,
+.icon-attachment:before,
+.icon-discount:before,
+.icon-service:before,
+.icon-print:before,
+.icon-box:before,
+.icon-gifts:before,
+.icon-lights:before,
+.icon-browse:before,
+.icon-compare:before,
+.icon-filter:before,
+.icon-link:before,
+.icon-move:before,
+.icon-dollar:before,
+.icon-remind1:before,
+.icon-icondownload:before,
+.icon-map:before,
+.icon-bad:before,
+.icon-good:before,
+.icon-skip:before,
+.icon-iconfontplay2:before,
+.icon-iconfontstop:before,
+.icon-share:before,
+.icon-phone:before,
+.icon-favoritesfilling:before,
+.icon-pdf:before,
+.icon-zip:before,
+.icon-copy:before,
+.icon-save:before,
+.icon-copyright:before,
+.icon-favorites:before,
+.icon-video:before,
+.icon-password:before,
+.icon-camera:before {
+	font-family: iconfont;
+}
+
+.icon-gupiao:before,
+.icon-lvyoutehui:before,
+.icon-delete:before,
+.icon-pic:before,
+.icon-search:before,
+.icon-set:before,
+.icon-viewgallery:before,
+.icon-tianjiayonghu:before,
+.icon-shangchuan:before,
+.icon-LC_icon_search_line_zoom:before,
+.icon-yuandianzhong:before,
+.icon-huojian:before,
+.icon-jiantouzuo:before,
+.icon-iosgamecontrollerb:before,
+.icon-ziliaoshouce-xianxing:before,
+.icon-xiangxiazhankai-yuankuang:before,
+.icon-video:before,
+.icon-jiantouyou:before,
+.icon-jiajianzujianjiahao:before {
+	font-family: iconfont;
+}
